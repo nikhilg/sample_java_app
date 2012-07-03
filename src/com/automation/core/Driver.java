@@ -8,4 +8,9 @@ package com.automation.core;
  * To change this template use File | Settings | File Templates.
  */
 public class Driver {
+	
+	public static void main (String[] args){
+		System.out.println("This is my first forked and git hub project.");
+		System.out.println("Going to commit the changes..");
+	}
 }
